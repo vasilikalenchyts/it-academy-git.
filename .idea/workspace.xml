@@ -55,10 +55,12 @@
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
     "Python.task6.executor": "Run",
     "Python.task7.executor": "Run",
+    "Python.task8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#1 on homework4",
+    "git-widget-placeholder": "homework6",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/it-academy-git"
   }
 }]]></component>
