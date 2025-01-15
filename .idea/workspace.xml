@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e0c1b39-0127-4ada-8b58-c15ca243be5c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../it-academy-git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../it-academy-git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it-academy-git/PythonDjangoVasili/django.py" beforeDir="false" afterPath="$PROJECT_DIR$/../it-academy-git/PythonDjangoVasili/django.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.app.executor": "Run",
+    "Python.lesson1.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
@@ -60,7 +62,7 @@
     "Python.task7.executor": "Run",
     "Python.task8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework6",
+    "git-widget-placeholder": "django",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/it-academy-git"
   }
 }]]></component>
